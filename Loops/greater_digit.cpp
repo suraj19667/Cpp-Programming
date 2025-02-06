@@ -3,7 +3,7 @@
 using namespace std;
 int main(){
     int num=123456;
-    int max=0;;
+    int max=0;
 
     while(num>0){
         int digit=num%10;

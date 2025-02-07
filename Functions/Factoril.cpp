@@ -15,7 +15,7 @@ void factorial(int num){
 int main(){
 
     int a;
-    cout<<"enter a:";
+    cout<<"Enter Number:";
     cin>>a;
     factorial(a);
 }

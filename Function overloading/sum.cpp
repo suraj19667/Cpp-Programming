@@ -13,7 +13,7 @@ int sum(int a,int b,int c){
     return c;
 }
 int main(){
-    cout<<sum(5);
-    cout<<sum(5,6);
-    cout<<sum(4,5,6);
+    cout<<sum(5)<<endl;
+    cout<<sum(5,6)<<endl;
+    cout<<sum(4,5,6)<<endl;
 }

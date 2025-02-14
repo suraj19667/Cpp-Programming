@@ -1,8 +1,9 @@
-//print string 
+//pallidrom string
 #include<iostream>
 using namespace std;
 
 int main(){
+
 
     string s="suraj";
     string ans=s;
@@ -19,6 +20,10 @@ int main(){
         i++;
     }
     if(s==ans){
-        cot
+        cout<<"Pallidrom";
     }
+    else{
+        cout<<"Not a pallidrom";
+    }
+    
 }

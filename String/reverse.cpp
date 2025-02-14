@@ -1,11 +1,10 @@
-//print string 
+//reverse string
 #include<iostream>
 using namespace std;
 
 int main(){
 
     string s="suraj";
-    string ans=s;
 
     int j=s.length()-1;
     int i=0;
@@ -18,7 +17,5 @@ int main(){
         j--;
         i++;
     }
-    if(s==ans){
-        cot
-    }
+    cout<<s;
 }

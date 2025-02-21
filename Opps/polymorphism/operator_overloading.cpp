@@ -11,7 +11,7 @@ class demo{
     demo(int val=0){
         value=val;
     }
-    demo operator+(demo &obj){
+    void operator +(demo &obj){
         cout<<value+obj.value;
     }
 };

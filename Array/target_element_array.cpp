@@ -9,7 +9,7 @@ int main(){
 
         for(int j=i+1;j<5;j++){
 
-            if(arr[i]+arr[j]==target){
+            if(arr[i]+arr[j]==et){
                 cout<<i<<" , "<<j;
                 return 0;
             }

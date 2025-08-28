@@ -4,7 +4,7 @@ using namespace std;
 
 void numberadd(int num);
 int digit=0,sum=0;
-    cout<<"Enter a number:";
+    cout<<"Enter the number:";
     cin>>num;
     digit=num;
 
